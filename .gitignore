@@ -23,9 +23,6 @@ jspm_packages/
 .DS_Store
 Thumbs.db
 
-# npm package-lock files
-/package-lock.json
-
 
 # macOS specific
 *.swp
